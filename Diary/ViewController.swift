@@ -2,7 +2,6 @@
 //  ViewController.swift
 //  Diary
 //
-//  Created by Gunter on 2021/09/10.
 //
 
 import UIKit
